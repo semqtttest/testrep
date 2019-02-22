@@ -5,6 +5,8 @@ sharing remotely
 another remote change
 ssh change
 over http again
+fix1
+change under bug1234 branch
 tagging
 
 feature1
