@@ -7,6 +7,7 @@ ssh change
 over http again
 fix1
 change under bug1234 branch
+adding yet more code under feature3 branch
 tagging
 
 feature1
